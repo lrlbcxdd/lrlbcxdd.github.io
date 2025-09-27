@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "Ronglin Lu"
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 # 🔥 About Me
 
 I am Ronglin Lu, a Master's student in the Class of 2025 at the [School of Artificial Intelligence and Data Science](https://saids.ustc.edu.cn/main.htm), University of Science and Technology of China (USTC). I am currently working under the guidance of [Professor Zhicheng Zhong](https://saids.ustc.edu.cn/2024/0530/c36361a642532/page.htm), with research interests in AI for Materials and AI Agents.
