@@ -47,6 +47,6 @@ Previously, I completed my Bachelor's degree from 2021 to 2025 at the [School of
 - *2025.09 - now*, Master of Engineering in Artificial Intelligence and Data Science, University of Science and Technology of China (USTC)
 - *2021.09 - 2025.06*, Bachelor of Engineering in Software Engineering, Shandong University (SDU)
 
-## Contact
+# 📧 Contact
 
 - **Email**: [17763179838@163.com](mailto:17763179838@163.com)
