@@ -41,6 +41,8 @@ Previously, I completed my Bachelor's degree from 2021 to 2025 at the [School of
 - 2024.12: 🎉 **Shandong University President's Award (山东大学校长奖)** 
 - 2022.10,2023.10:,2024.10: 🎉 **National Scholarship** 
 - 2024.07: 🎉 **National First Prize in the 19th National University Students Intelligent Car Race (Smart Inspection Team)**
+  - Team Member:Runpei Miao,Shulu Cai,Huiwu Chen,Kai Chen,Zhengyu Sun,Ronglin Lu
+
 - 2024.05: 🎉 **Outstanding Students of Shandong Higher Education Institutions**
 
 # 📖 Educations
