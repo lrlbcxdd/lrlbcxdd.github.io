@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Ronglin Lu"
-  avatar           : "images/name.jpg"
+  avatar           : "images/picture.jpg"
   bio              : "Artificial Intelligence and Data Science, University of Science and Technology of China"
   location         : "Hefei, China"
   employer         :

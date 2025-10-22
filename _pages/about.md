@@ -38,12 +38,17 @@ Previously, I completed my Bachelor's degree from 2021 to 2025 at the [School of
 - Paper and Code: [paper](https://doi.org/10.1093/bib/bbaf447) and [github](https://github.com/tingtingring/MCAMEFBERT)
 
 # 🎖 Honors and Awards
-- 2024.12: 🎉 **Shandong University President's Award (山东大学校长奖)** 
-- 2022.10,2023.10:,2024.10: 🎉 **National Scholarship** 
+- 2025.11：🎉 **Gold Award in the Intelligent Experiment Category, AI for Science Track, 2nd Global Digital and Intelligent Education Innovation Competition**
+- 2024.12: 🎉 **Shandong University President's Award (山东大学校长奖)** 【**山东大学最高荣誉奖项**】
+- 2024.10: 🎉 **National Scholarship** 
 - 2024.07: 🎉 **National First Prize in the 19th National University Students Intelligent Car Race (Smart Inspection Team)**
   - Team Member:Runpei Miao,Shulu Cai,Huiwu Chen,Kai Chen,Zhengyu Sun,Ronglin Lu
 
 - 2024.05: 🎉 **Outstanding Students of Shandong Higher Education Institutions**
+
+- 2023.10: 🎉 **National Scholarship** 
+
+- 2022.10: 🎉 **National Scholarship** 
 
 # 📖 Educations
 - *2025.09 - now*, Master of Engineering in Artificial Intelligence and Data Science, University of Science and Technology of China (USTC)
