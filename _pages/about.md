@@ -38,7 +38,7 @@ Previously, I completed my Bachelor's degree from 2021 to 2025 at the [School of
 - Paper and Code: [paper](https://doi.org/10.1093/bib/bbaf447) and [github](https://github.com/tingtingring/MCAMEFBERT)
 
 # 🎖 Honors and Awards
-- 2025.11：🎉 **Gold Award in the Intelligent Experiment Category, AI for Science Track, 2nd Global Digital and Intelligent Education Innovation Competition**
+- 2025.11：🎉 **Gold Award in Intelligent Experiment Category AI for Science Track 2nd Global Digital and Intelligent Education Innovation Competition**
   - Team Member:Gan Zhang,Ronglin Lu,Yusheng Shao,Tianyang Wang,Qibin Sun,Chen Huang,Wentao Zhao
 
 - 2024.12: 🎉 **Shandong University President's Award (山东大学校长奖)** 【**山东大学最高荣誉奖项**】
