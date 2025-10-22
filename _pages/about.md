@@ -39,6 +39,8 @@ Previously, I completed my Bachelor's degree from 2021 to 2025 at the [School of
 
 # 🎖 Honors and Awards
 - 2025.11：🎉 **Gold Award in the Intelligent Experiment Category, AI for Science Track, 2nd Global Digital and Intelligent Education Innovation Competition**
+  - Team Member:Gan Zhang,Ronglin Lu,Yusheng Shao,Tianyang Wang,Qibin Sun,Chen Huang,Wentao Zhao
+
 - 2024.12: 🎉 **Shandong University President's Award (山东大学校长奖)** 【**山东大学最高荣誉奖项**】
 - 2024.10: 🎉 **National Scholarship** 
 - 2024.07: 🎉 **National First Prize in the 19th National University Students Intelligent Car Race (Smart Inspection Team)**
