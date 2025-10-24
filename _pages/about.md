@@ -30,7 +30,7 @@ Previously, I completed my Bachelor's degree from 2021 to 2025 at the [School of
 - Publication date and Journal:2025/3 [Current Bioinformatics](https://www.sciencedirect.com/org/journal/current-bioinformatics)
 - Paper and Code: [paper](https://doi.org/10.2174/0115748936294345240510112941) and [github](https://github.com/lrlbcxdd/Example)
 
-[MCAMEF-BERT: an efficient deep learning method for RNA N7-methylguanosine site prediction via multi-branch feature integration](https://academic.oup.com/bib/article-abstract/26/5/bbaf447/8245190)]
+[MCAMEF-BERT: an efficient deep learning method for RNA N7-methylguanosine site prediction via multi-branch feature integration](https://academic.oup.com/bib/article-abstract/26/5/bbaf447/8245190)
 
 - Authors: Junlei Yu, Wenjia Gao, Siqi Chen, **Ronglin Lu**, Jianbo Qiao, Junru Jin, Leyi Wei, Hua Shi, Zilong Zhang, Feifei Cui, Xinbo Jiang, Zhongmin Yan
 

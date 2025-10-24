@@ -19,6 +19,14 @@
       {% if site.description %}
         <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
       {% endif %}
+      <li class="site-visit-counter">
+        <i class="fas fa-fw fa-users" aria-hidden="true"></i> Total visits:
+        <span id="busuanzi_value_site_pv">Loading...</span>
+      </li>
+      <li class="page-visit-counter">
+        <i class="fas fa-fw fa-eye" aria-hidden="true"></i> Page views:
+        <span id="busuanzi_value_page_pv">Loading...</span>
+      </li>
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
