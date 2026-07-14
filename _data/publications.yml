@@ -1,0 +1,20 @@
+main:
+  - title: "MCAMEF-BERT: An Efficient Deep Learning Method for RNA N7-methylguanosine Site Prediction via Multi-branch Feature Integration"
+    authors: Junlei Yu, Wenjia Gao, Siqi Chen, <strong>Ronglin Lu</strong>, Jianbo Qiao, Junru Jin, Leyi Wei, Hua Shi, Zilong Zhang, Feifei Cui, Xinbo Jiang, Zhongmin Yan
+    conference_short: BIB
+    conference: Briefings in Bioinformatics, 2025.
+    pdf: https://doi.org/10.1093/bib/bbaf447
+    code: https://github.com/tingtingring/MCAMEFBERT
+
+  - title: "ERNIE-ac4C: A Novel Deep Learning Model for Effectively Predicting N4-acetylcytidine Sites"
+    authors: <strong>Ronglin Lu</strong>, Jianbo Qiao, Kefei Li, Yanxi Zhao, Junru Jin, Feifei Cui, Zilong Zhang, Balachandran Manavalan, Leyi Wei
+    conference_short: JMB
+    conference: Journal of Molecular Biology, 437(6), 168978, 2025.
+    pdf: https://doi.org/10.1016/j.jmb.2025.168978
+    code: https://github.com/lrlbcxdd/ERNIEac4C
+
+  - title: "Enhancing Drug Peptide Sequence Prediction Using Multi-view Feature Fusion Learning"
+    authors: Junyu Zhang, <strong>Ronglin Lu</strong>, Hongmei Zhou, Xinbo Jiang
+    conference_short: CBIO
+    conference: Current Bioinformatics, 2025.
+    pdf: https://doi.org/10.2174/0115748936294345240510112941
