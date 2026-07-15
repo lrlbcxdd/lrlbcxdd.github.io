@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <title>{{ site.title }} | {{site.affiliation}}</title>
+    <title>{{ site.title }} {{ site.title_zh }} | {{site.affiliation}}</title>
 
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -44,7 +44,10 @@
         <a class="image avatar"><img src="{{ site.avatar }}" alt="Portrait of {{ site.title }}" /></a>
         {% endif %}
 
-        <h1>{{ site.title }}</h1>
+        <h1>
+          <span>{{ site.title }}</span>
+          {% if site.title_zh %}<span class="name-zh">{{ site.title_zh }}</span>{% endif %}
+        </h1>
 
         {% if site.position %}
         <position style="font-size:1.10rem;">{{ site.position }}</position>
@@ -94,8 +97,8 @@
         <br>
 
         <div class="profile-stats">
-          {% if site.google_scholar_publications %}
-          <div><i class="fas fa-book" aria-hidden="true"></i> Scholar publications: {{ site.google_scholar_publications }}</div>
+          {% if site.google_scholar_citations %}
+          <div><i class="fas fa-quote-right" aria-hidden="true"></i> Scholar citations: {{ site.google_scholar_citations }}</div>
           {% endif %}
           <div><i class="fas fa-eye" aria-hidden="true"></i> Total visits: <span id="visit-count" aria-live="polite">146</span></div>
         </div>

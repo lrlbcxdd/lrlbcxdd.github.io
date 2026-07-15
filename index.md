@@ -17,7 +17,7 @@ Before that, I received my B.Eng. degree in Software Engineering from **Shandong
 <table>
 <tr>
 <td style="width:100px; text-align:center; vertical-align:middle;">
-<img src="assets/img/ustc-logo.svg" width="100" alt="USTC" />
+<img src="assets/img/USTC_logo_2008.svg.webp" width="100" alt="USTC" />
 </td>
 <td>
 <b>Master's Student in Artificial Intelligence</b><br />
@@ -36,7 +36,7 @@ University of Science and Technology of China, Hefei, China<br />
 <table>
 <tr>
 <td style="width:100px; text-align:center; vertical-align:middle;">
-<img src="assets/img/ustc-logo.svg" width="100" alt="USTC" />
+<img src="assets/img/USTC_logo_2008.svg.webp" width="100" alt="USTC" />
 </td>
 <td>
 <b>University of Science and Technology of China, China</b><br />

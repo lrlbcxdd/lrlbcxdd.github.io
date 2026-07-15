@@ -1,5 +1,6 @@
 # Basic Information
-title: Ronglin Lu (逯荣林)
+title: Ronglin Lu
+title_zh: 逯荣林
 position: Master's Student in Artificial Intelligence
 affiliation: University of Science and Technology of China
 affiliation_link: https://www.ustc.edu.cn/
@@ -11,8 +12,8 @@ description: Academic homepage of Ronglin Lu, a master's student at the Universi
 canonical: https://lrlbcxdd.github.io/
 
 # Academic and social links
-google_scholar: https://scholar.google.com/citations?user=HNwmOdMAAAAJ&hl=en
-google_scholar_publications: 3
+google_scholar: https://scholar.google.co.jp/citations?hl=en&user=HNwmOdMAAAAJ
+google_scholar_citations: 17
 github_link: https://github.com/lrlbcxdd
 
 # Profile image and favicons
