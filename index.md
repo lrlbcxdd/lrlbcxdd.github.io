@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## Biography
+## 👋 Biography
 
 Hello! I am a master's student in Artificial Intelligence at the **School of Artificial Intelligence and Data Science**, **University of Science and Technology of China (USTC)**, advised by [Prof. Zhicheng Zhong](https://saids.ustc.edu.cn/2024/0530/c36361a642532/page.htm).
 
@@ -10,11 +10,9 @@ My research interests focus on **AI for Science** and **AI Agents**, with partic
 
 Before that, I received my B.Eng. degree in Software Engineering from **Shandong University** in 2025, where I worked with [Prof. Leyi Wei](https://wei-group.net/) on deep learning methods for bioinformatics.
 
-*📧 Feel free to contact me by email if you are interested in discussing or collaborating with me.*
-
 ---
 
-## Affiliation
+## 🏫 Affiliation
 
 <table>
 <tr>
@@ -33,15 +31,7 @@ University of Science and Technology of China, Hefei, China<br />
 
 ---
 
-## 🔥 News
-
-- [11/2025] Received the Gold Award in the AI for Science Track of the 2nd Global Digital and Intelligent Education Innovation Competition. 🎉
-- [09/2025] Our paper *MCAMEF-BERT* was published in *Briefings in Bioinformatics*. 🎉
-- [03/2025] Our paper *ERNIE-ac4C* was published in the *Journal of Molecular Biology*. 🎉
-
----
-
-## Education
+## 🎓 Education
 
 <table>
 <tr>
@@ -57,7 +47,7 @@ Sep. 2025 - Present
 
 <tr>
 <td style="width:100px; text-align:center; vertical-align:middle;">
-<img src="assets/img/sdu-logo.svg" width="100" alt="Shandong University" />
+<img src="assets/img/山东大学logo.jfif" width="100" alt="Shandong University" />
 </td>
 <td>
 <b>Shandong University, China</b><br />
@@ -73,7 +63,7 @@ Sep. 2021 - Jun. 2025
 
 ---
 
-## Honors & Awards
+## 🏆 Honors & Awards
 
 <div class="honors">
   <div class="honor-item">
