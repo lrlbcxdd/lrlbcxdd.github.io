@@ -15,14 +15,14 @@ google_scholar: https://scholar.google.com/citations?user=HNwmOdMAAAAJ&hl=en
 github_link: https://github.com/lrlbcxdd
 
 # Profile image and favicons
-avatar: ./assets/img/ronglin-lu.jpg
+avatar: ./assets/img/name.jpg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
 # Theme options
-enable_footnote: true
-auto_dark_mode: true
-font: "Sans Serif"
+enable_footnote: false
+auto_dark_mode: false
+font: "Serif"
 
 # Use Minimal Light as the remote theme on GitHub Pages.
 remote_theme: yaoyao-liu/minimal-light
