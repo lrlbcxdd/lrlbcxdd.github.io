@@ -12,31 +12,12 @@ Before that, I received my B.Eng. degree in Software Engineering from **Shandong
 
 ---
 
-## 🏫 Affiliation
-
-<table>
-<tr>
-<td style="width:100px; text-align:center; vertical-align:middle;">
-<img src="assets/img/USTC_logo_2008.svg.webp" width="100" alt="USTC" />
-</td>
-<td>
-<b>Master's Student in Artificial Intelligence</b><br />
-School of Artificial Intelligence and Data Science<br />
-University of Science and Technology of China, Hefei, China<br />
-<br />
-<b>Advisor:</b> <a href="https://saids.ustc.edu.cn/2024/0530/c36361a642532/page.htm">Prof. Zhicheng Zhong</a>
-</td>
-</tr>
-</table>
-
----
-
 ## 🎓 Education
 
 <table>
 <tr>
 <td style="width:100px; text-align:center; vertical-align:middle;">
-<img src="assets/img/USTC_logo_2008.svg.webp" width="100" alt="USTC" />
+<img src="assets\img\images.png" width="100" alt="USTC" />
 </td>
 <td>
 <b>University of Science and Technology of China, China</b><br />
@@ -68,27 +49,35 @@ Sep. 2021 - Jun. 2025
 <div class="honors">
   <div class="honor-item">
     <span class="honor-date">[11/2025]</span>
-    <span class="honor-text">Gold Award, AI for Science Track, Intelligent Experiment Category, 2nd Global Digital and Intelligent Education Innovation Competition.</span>
+    <span class="honor-text">🥇Gold Award, AI for Science Track, Intelligent Experiment Category, 2nd Global Digital and Intelligent Education Innovation Competition.</span>
   </div>
 
   <div class="honor-item">
     <span class="honor-date">[12/2024]</span>
-    <span class="honor-text">President's Award, Shandong University — the university's highest student honor.</span>
+    <span class="honor-text">📈President's Award, Shandong University — the university's highest student honor.</span>
   </div>
 
   <div class="honor-item">
-    <span class="honor-date">[2022-2024]</span>
-    <span class="honor-text">National Scholarship, Ministry of Education of China — awarded for three consecutive years.</span>
+    <span class="honor-date">[2024]</span>
+    <span class="honor-text">📈National Scholarship, Ministry of Education of China — awarded for three consecutive years.</span>
+  </div>
+    <div class="honor-item">
+    <span class="honor-date">[2023]</span>
+    <span class="honor-text">📈National Scholarship, Ministry of Education of China — awarded for three consecutive years.</span>
+  </div>
+    <div class="honor-item">
+    <span class="honor-date">[2022]</span>
+    <span class="honor-text">📈National Scholarship, Ministry of Education of China — awarded for three consecutive years.</span>
   </div>
 
   <div class="honor-item">
     <span class="honor-date">[07/2024]</span>
-    <span class="honor-text">19th National University Students Intelligent Car Race — Smart Inspection Category, National First Prize.</span>
+    <span class="honor-text">🥇19th National University Students Intelligent Car Race — Smart Inspection Category, National First Prize.</span>
   </div>
 
   <div class="honor-item">
     <span class="honor-date">[05/2024]</span>
-    <span class="honor-text">Outstanding Student of Shandong Higher Education Institutions.</span>
+    <span class="honor-text">📈Outstanding Student of Shandong Higher Education Institutions.</span>
   </div>
 </div>
 
