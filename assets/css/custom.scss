@@ -1,25 +1,26 @@
 ---
 ---
 
-/* Keep the same square avatar treatment as the reference homepage. */
-.image.avatar img {
-  border-radius: 0 !important;
-  width: auto !important;
-  height: auto !important;
-  max-width: 100% !important;
+/* Keep large source photos from pushing profile details below the viewport. */
+header .image.avatar {
   display: block;
-  margin: 0 auto;
+  width: 160px;
+  height: 200px;
+  margin: 0 auto 18px;
+  overflow: hidden;
+  border-radius: 0;
 }
 
-.profile-stats {
-  color: #595959;
-  font-size: 14px;
-  line-height: 1.7;
-}
-
-.profile-stats i {
-  width: 18px;
-  color: #043361;
+header .image.avatar img {
+  display: block;
+  width: 100% !important;
+  height: 100% !important;
+  max-width: none !important;
+  margin: 0;
+  padding: 0;
+  border-radius: 0 !important;
+  object-fit: cover;
+  object-position: center 25%;
 }
 
 header h1 .name-zh {
@@ -27,4 +28,55 @@ header h1 .name-zh {
   margin-top: 6px;
   font-size: 0.82em;
   font-weight: 500;
+}
+
+.profile-stats {
+  width: 205px;
+  margin: 8px auto 0;
+  padding-top: 10px;
+  border-top: 1px solid #e5e5e5;
+  color: #595959;
+  font-size: 14px;
+  line-height: 1.45;
+  text-align: left;
+}
+
+.profile-stat,
+a.profile-stat {
+  display: grid;
+  grid-template-columns: 20px 1fr auto;
+  align-items: center;
+  column-gap: 5px;
+  min-height: 27px;
+  color: #595959;
+}
+
+a.profile-stat:hover {
+  color: #069;
+}
+
+.profile-stat i {
+  width: 18px;
+  color: #043361;
+  text-align: center;
+}
+
+.profile-stat strong {
+  min-width: 24px;
+  color: #043361;
+  font-weight: 600;
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+@media print, screen and (max-width: 960px) {
+  header .image.avatar {
+    width: 144px;
+    height: 180px;
+    margin-bottom: 14px;
+  }
+
+  .profile-stats {
+    margin-bottom: 8px;
+  }
 }
